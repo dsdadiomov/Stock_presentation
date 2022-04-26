@@ -1,0 +1,8 @@
+setup.py
+Stock03071994.egg-info/PKG-INFO
+Stock03071994.egg-info/SOURCES.txt
+Stock03071994.egg-info/dependency_links.txt
+Stock03071994.egg-info/requires.txt
+Stock03071994.egg-info/top_level.txt
+Stock_package/Stocks.py
+Stock_package/__init__.py
